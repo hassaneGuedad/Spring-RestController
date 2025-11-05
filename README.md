@@ -86,6 +86,7 @@ Content-Type: application/json
   "dateCreation": "2025-11-05",
   "type": "COURANT"
 }
+
 🗂️ Structure du Projet
 
 src/
@@ -102,6 +103,7 @@ src/
     │           └── CompteRepository.java
     └── resources/
         └── application.properties
+        
         
 🖼️ Captures d’écran
 
