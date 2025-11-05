@@ -107,22 +107,24 @@ src/
         
 🖼️ Captures d’écran
 
-Crée un dossier screenshots à la racine du projet et ajoute-y les images suivantes :
+<img width="960" height="510" alt="tp8_1" src="https://github.com/user-attachments/assets/1c012ab5-b75f-4e1d-82b4-513116ddae17" />
 
-postman-get-json.png
+<img width="960" height="510" alt="tp8_2" src="https://github.com/user-attachments/assets/906a3e7d-ed03-42fa-ba33-624e1fd67ca1" />
 
-postman-get-xml.png
+<img width="960" height="510" alt="post" src="https://github.com/user-attachments/assets/e2a67a3a-6175-46a1-93c2-bac981355804" />
 
-postman-post-json.png
+<img width="960" height="510" alt="put" src="https://github.com/user-attachments/assets/9812d38a-bcdb-4e08-a3e1-122de574a539" />
 
-h2-console.png
+<img width="960" height="510" alt="delete" src="https://github.com/user-attachments/assets/7a518a2f-3ed0-4b41-8ed1-45dd73c4d22a" />
 
-swagger-ui.png
+<img width="640" height="340" alt="h2" src="https://github.com/user-attachments/assets/b1d9c347-de2f-4ed3-bf06-45bee9b666b0" />
+
+<img width="640" height="340" alt="swagger" src="https://github.com/user-attachments/assets/98524b64-c798-41fc-8860-f4d7017dec3c" />
+
+
+
 
 🤝 Contribution
 
 Les contributions sont les bienvenues ! Forkez le projet et créez vos pull requests pour ajouter de nouvelles fonctionnalités ou corriger des bugs.
 
-📄 Licence
-
-Ce projet est sous licence MIT – voir le fichier LICENSE.
